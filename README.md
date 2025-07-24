@@ -1,4 +1,5 @@
 # bash-script-that-counts-from-1-to-50
+
 nano count_to_50.sh
 
 #!/bin/bash
